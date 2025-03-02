@@ -1,2 +1,2 @@
 # llocal-repo
-This is my git repository.
+This is my github repository.
